@@ -1,3 +1,6 @@
+https://pitt.app.box.com/folder/69370840063
+
+
 # Project 3: Website Portfolio
 
 Your task in this unit is to **build a responsive website using basic html and css files** — as opposed to a site manager like WordPress or Wix — **along with any media assets you wish to embed.** (Any JavaScript you want to add for interactivity is above and beyond expectations.) In assigning this, I have two main goals for you: (1) to learn how to manage a composite project made up of multiple interlinking files, and (2) to explore the affordances of the web design stack as a medium, and especially its ability to _flexibly render content for multiple audiences or reading priorities_.
